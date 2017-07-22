@@ -9,10 +9,10 @@ MY-SQL
 
 Install and Run ::
 Pull or download Project and extact files zip 
-// $ mvn clean
-// $ mvn install
-// $ cd target
-// $ java -jar CurrencyConversion--SNAPSHOT.jar
+$ mvn clean
+$ mvn install
+$ cd target
+$ java -jar CurrencyConversion--SNAPSHOT.jar
 
 
 
